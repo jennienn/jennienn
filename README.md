@@ -1,10 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=black&text=Hi%20there%20&fontColor=FFFFFF&fontAlign=30&animation=twinkling&fontSize=30)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20there%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-![jennienn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennienn&show_icons=true&theme=radical)
 <!--
 
 **jennienn/jennienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![jennienn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennienn&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
